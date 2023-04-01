@@ -4,7 +4,7 @@
 # whitewater
 
 <!-- badges: start -->
-
+[![CRAN status](https://www.r-pkg.org/badges/version/whitewater)](https://CRAN.R-project.org/package=whitewater)
 [![R-CMD-check](https://github.com/joshualerickson/whitewater/workflows/R-CMD-check/badge.svg)](https://github.com/joshualerickson/whitewater/actions)[![codecov](https://codecov.io/gh/joshualerickson/whitewater/branch/main/graph/badge.svg)](https://app.codecov.io/gh/joshualerickson/whitewater)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
